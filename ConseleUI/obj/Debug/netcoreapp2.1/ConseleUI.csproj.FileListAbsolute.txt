@@ -1,0 +1,41 @@
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\ConseleUI.deps.json
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\ConseleUI.runtimeconfig.json
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\ConseleUI.runtimeconfig.dev.json
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\ConseleUI.dll
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\ConseleUI.pdb
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.csprojAssemblyReference.cache
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.csproj.CoreCompileInputs.cache
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.AssemblyInfoInputs.cache
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.AssemblyInfo.cs
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.csproj.CopyComplete
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.dll
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.pdb
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\Fırat\source\repos\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.csprojAssemblyReference.cache
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.AssemblyInfoInputs.cache
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.AssemblyInfo.cs
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.csproj.CoreCompileInputs.cache
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.dll
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.pdb
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\ConseleUI.deps.json
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\ConseleUI.runtimeconfig.json
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\ConseleUI.runtimeconfig.dev.json
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\ConseleUI.dll
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\ConseleUI.pdb
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.csproj.CopyComplete
+C:\Users\Fırat\source\repos 2017\FinalProject\ConseleUI\obj\Debug\netcoreapp2.1\ConseleUI.genruntimeconfig.cache
